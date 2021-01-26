@@ -1,0 +1,4 @@
+baseURL = "https://chikenpotrecipe.vercel.app"
+languageCode = "en-us"
+title = "Chiken Recipes"
+theme = "z"
